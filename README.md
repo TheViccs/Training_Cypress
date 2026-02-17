@@ -8,9 +8,15 @@ In this repository, you will find the fundamentals to create scripts in Cypress
 - Git (Opcional)
 
 
-## Como intalar Cypress
+## Como intalar Cypress 
 
-1.- Crear una carpeta donde se va a llevar a cabo el proyecto
-2.- Nos ubicamos donde queramos el proyecto y desde la terminal escribimos: "mkdir nombre_del_proyecto"
-3.- Entramos a la carpeta creada
-4.- Debemos crear un proyecto de Node con el comando: "npm init"
+<ol>
+  <li> Crear una carpeta donde se va a llevar a cabo el proyecto </li>
+  <li> Nos ubicamos donde queramos el proyecto y desde la terminal escribimos: "mkdir nombre_del_proyecto" </li>
+  <li> Entramos a la carpeta creada </li>
+  <li> Debemos crear un proyecto de Node con el comando: "npm init" </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+  <li>  </li>
+</ol>
