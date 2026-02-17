@@ -2,7 +2,7 @@
 In this repository, you will find the fundamentals to create scripts in Cypress
 
 
-##Que se requiere para preparar el ambiente de trabajo de Cypress
+## Que se requiere para preparar el ambiente de trabajo de Cypress
 
 - Instalar NodeJS
 - Git (Opcional)
@@ -15,8 +15,8 @@ In this repository, you will find the fundamentals to create scripts in Cypress
   <li> Nos ubicamos donde queramos el proyecto y desde la terminal escribimos: "mkdir nombre_del_proyecto" </li>
   <li> Entramos a la carpeta creada </li>
   <li> Debemos crear un proyecto de Node con el comando: "npm init" </li>
-  <li>  </li>
-  <li>  </li>
+  <li> Configuramos el proyecto, llenamos los campos "package name",  "description" y "author". Lo demás podemos dar enter y al final poner "yes" </li>
+  <li> Instalamos Cypress </li>
   <li>  </li>
   <li>  </li>
 </ol>
